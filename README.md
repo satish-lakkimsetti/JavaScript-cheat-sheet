@@ -1,5 +1,3 @@
----
-
 ### **Variables & Data Types**
 ```javascript
 let x = 10;       // Block-scoped
